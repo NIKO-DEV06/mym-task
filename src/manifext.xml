@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionManifest xmlns="http://ns.adobe.com/cep/manifest/4.0/">
+  <ExtensionList>
+    <Extension Id="nikodev06" Version="1.0">
+      <HostList>
+        <Host Name="ILST" Version="[24.0,99.0]" />
+      </HostList>
+      <MainPath>./main.ts</MainPath>
+      <UI>
+        <Menu>
+          <MenuEntry Label="MYM Random Theme Generator" />
+        </Menu>
+      </UI>
+    </Extension>
+  </ExtensionList>
+</ExtensionManifest>
